@@ -16,26 +16,27 @@ An analytical table for reporting was built using SQL transformations, including
 - Calculating nett sales (price * gross profit percentage)
 - Calculating profit (price * (1-discount percentage/100))
 - Joining product, inventory, branch, and transacion tables
+  
 Resulting analysis tables were then connected directly to Looker Studio
 
 **Dashboard Development**
 
 The dashboard provides a comprehensive business performance view, including:
 
-Key Metrics:
+- Key Metrics:
 Total Transactions: 672.5K
 Total Customers: 264.6K
 Total Revenue: 1.4T
 Total Profit: 395.7B
 Average Rating: 4.0
 
-Analytical Visuals:
+- Analytical Visuals:
 Top 10 Provinces by Revenue & Transactions
 Revenue performance trend (2020–2023)
 Top 5 High-Performing Branches with Ratings
 Profit distribution map across Indonesia
 
-Filters for Province, Branch, Revenue Range, and Product Category
+- Filters for Province, Branch, Revenue Range, and Product Category
 
 ![PBI_Kimia_Farma (1)_page-0001](https://github.com/user-attachments/assets/32a697c9-a8fc-46c9-aee9-df1db9d3be28)
 
