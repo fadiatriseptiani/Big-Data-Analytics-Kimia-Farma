@@ -24,16 +24,25 @@ Resulting analysis tables were then connected directly to Looker Studio
 The dashboard provides a comprehensive business performance view, including:
 
 - Key Metrics:
+  
 Total Transactions: 672.5K
+
 Total Customers: 264.6K
+
 Total Revenue: 1.4T
+
 Total Profit: 395.7B
+
 Average Rating: 4.0
 
 - Analytical Visuals:
+  
 Top 10 Provinces by Revenue & Transactions
+
 Revenue performance trend (2020–2023)
+
 Top 5 High-Performing Branches with Ratings
+
 Profit distribution map across Indonesia
 
 - Filters for Province, Branch, Revenue Range, and Product Category
