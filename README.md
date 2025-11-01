@@ -1,4 +1,4 @@
-# Big-Data-Analytics-Kimia-Farma
+# Big Data Analytics Kimia Farma
 
 This project analyzes Kimia Farma’s business performance from 2020 to 2023 using transaction data from multiple branches across Indonesia. The goal is to extract actionable insights regarding financial performance, customer behavior, and branch productivity to support business decision-making.
 
@@ -42,7 +42,11 @@ Filters for Province, Branch, Revenue Range, and Product Category
 
 **Data Insight**
 
-West Java is the strongest market, leading in both revenue and transaction volume.
-Provinces outside Java show lower sales performance, indicating market expansion opportunities.
-Revenue drop in 2021 likely driven by COVID-19 restrictions and shifts in consumer behavior. Recovery in 2022 shows adaptable business performance.
-Subang, Garut, and Purwakarta appear in the Top 5 city with high-performing branches, excelling in both transaction count and customer satisfaction.
+- West Java is the strongest market, leading in both revenue and transaction volume.
+- Provinces outside Java show lower sales performance, indicating market expansion opportunities.
+- Revenue drop in 2021 likely driven by COVID-19 restrictions and shifts in consumer behavior. Recovery in 2022 shows adaptable business performance.
+- Subang, Garut, and Purwakarta appear in the Top 5 city with high-performing branches, excelling in both transaction count and customer satisfaction.
+
+Fadia Tri Septiani
+
+triseptianifadia@gmail.com 
